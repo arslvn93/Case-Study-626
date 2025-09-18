@@ -124,7 +124,7 @@ const config = {
       "href": "https://ericareddy.com/privacy-policy/"
     },
     "logo": {
-      "src": "https://freeimage.host/i/K5mC1Q1"
+      "src": "https://iili.io/K5mGdR2.webp"
     },
     "secondaryLogo": {
       "src": "https://iili.io/K5mC1Q1.webp"
