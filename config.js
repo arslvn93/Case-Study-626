@@ -121,7 +121,7 @@ const config = {
   "footer": {
     "privacyPolicy": {
       "text": "Privacy Policy",
-      "href": "https://ericareddy.com"
+      "href": "https://ericareddy.com/privacy-policy/"
     },
     "logo": {
       "src": "https://freeimage.host/i/K5mC1Q1"
