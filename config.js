@@ -18,7 +18,7 @@ const config = {
     ],
     "companyName": "Erica Reddy-Choquette",
     "mainCTAButtonText": "Book A Discovery Call",
-    "mainCTAButtonURL": "https://calendly.com/ericareddy/discovery-call?month=2025-09",
+    "mainCTAButtonURL": "https://calendly.com/ericareddy/discovery-call",
     "primaryColor": "#e3c379",
     "accentColor": "#d9c6a2",
     "facebookPixelId": ""
