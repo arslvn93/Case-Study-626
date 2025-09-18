@@ -92,10 +92,10 @@ const config = {
       "type": "standard",
       "title": "The Results",
       "paragraphs": [
-        "<strong>SOLD IN 59 DAYS</strong> – nearly 50% faster than the 100+ day market average",
-        "Achieved strong return on investment after 10+ years of ownership",
-        "<strong>OUTPERFORMED BUILDING COMPETITION</strong> – sold while similar units sat for 4+ months",
-        "Seamless coordination with his out-of-province relocation timeline"
+        "-<strong>SOLD IN 59 DAYS</strong> – nearly 50% faster than the 100+ day market average.",
+        "-Achieved strong return on investment after 10+ years of ownership.",
+        "-<strong>OUTPERFORMED BUILDING COMPETITION</strong> – sold while similar units sat for 4+ months.",
+        "-Seamless coordination with his out-of-province relocation timeline."
       ],
       "listItems": []
     },
