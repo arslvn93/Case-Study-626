@@ -43,7 +43,7 @@ const config = {
     "sidebar": {
       "title": "About {{companyName}}",
       "image": {
-        "src": "https://ericareddy.com/wp-content/uploads/2023/10/Erica-Reddy.jpeg"
+        "src": "https://iili.io/K5m3JLJ.webp"
       },
       "paragraphs": [
         "Our business is built on relationships. Our approach is all about teamwork; both internally and with our clients. We’re committed to getting to know each buyer and seller we partner with, and work hard to connect them to the best communities the city has to offer. Helping Torontonians build the lifestyle they’ve always wanted is always our goal."
