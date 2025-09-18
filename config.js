@@ -37,7 +37,7 @@ const config = {
       "subTitle": "Summary",
       "paragraphs": [
         "Meet my client – a savvy investor who purchased his first condo with me over a decade ago. Now ready for his next life chapter, he needed to sell that same unit in Toronto's notoriously competitive condo market to fund his move to another province.",
-        "Through professional service and market expertise, we delivered exceptional results for our client. <strong>SOLD IN 59 DAYS</strong> – nearly 50% faster than the 100+ day market average Achieved strong return on investment after 10+ years of ownership <strong>OUTPERFORMED BUILDING COMPETITION</strong> – sold while similar units sat for 4+ months Seamless coordination with his out-of-province relocation timeline"
+        "Through professional service and market expertise, we delivered exceptional results for our client. <strong>SOLD IN 59 DAYS:</strong>  nearly 50% faster than the 100+ day market average Achieved strong return on investment after 10+ years of ownership <strong>OUTPERFORMED BUILDING COMPETITION:</strong> sold while similar units sat for 4+ months Seamless coordination with his out-of-province relocation timeline."
       ]
     },
     "sidebar": {
