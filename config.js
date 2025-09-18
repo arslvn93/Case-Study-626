@@ -55,10 +55,10 @@ const config = {
       "type": "standard",
       "title": "The Challenge",
       "paragraphs": [
-        "Units in his exact building were sitting unsold for months, creating doubt about whether his condo would move quickly",
-        "Toronto's condo market had become brutally competitive, with buyers having endless options and sellers struggling to stand out",
-        "He needed a solid return on his 10+ year investment to fund his relocation, but wasn't sure the timing was right",
-        "The pressure of coordinating a sale with his out-of-province move created additional stress and urgency"
+        "-Units in his exact building were sitting unsold for months, creating doubt about whether his condo would move quickly.",
+        "-Toronto's condo market had become brutally competitive, with buyers having endless options and sellers struggling to stand out.",
+        "-He needed a solid return on his 10+ year investment to fund his relocation, but wasn't sure the timing was right.",
+        "-The pressure of coordinating a sale with his out-of-province move created additional stress and urgency."
       ],
       "listItems": []
     },
@@ -66,11 +66,11 @@ const config = {
       "type": "standard",
       "title": "The Strategy",
       "paragraphs": [
-        "Conducted deep market analysis of his building and positioned his unit strategically against comparable properties that had been sitting for months",
-        "Developed a comprehensive marketing strategy that went far beyond just pricing – professional staging, high-impact photography, and targeted buyer outreach",
-        "Leveraged our decade-long relationship and my intimate knowledge of his property to highlight its unique selling points",
-        "Created a timeline that aligned perfectly with his relocation plans, removing the stress of coordinating his move",
-        "Provided constant guidance and market insights, allowing him to make confident decisions throughout the process"
+        "-Conducted deep market analysis of his building and positioned his unit strategically against comparable properties that had been sitting for months.",
+        "-Developed a comprehensive marketing strategy that went far beyond just pricing – professional staging, high-impact photography, and targeted buyer outreach.",
+        "-Leveraged our decade-long relationship and my intimate knowledge of his property to highlight its unique selling points.",
+        "-Created a timeline that aligned perfectly with his relocation plans, removing the stress of coordinating his move.",
+        "-Provided constant guidance and market insights, allowing him to make confident decisions throughout the process."
       ],
       "testimonial": {
         "quote": "\"He completely trusted the process and my guidance. With the right realtor, great things can happen even in a market as competitive as the one in Toronto for condos. Selling his condo has opened the door to an exciting new chapter, and with the sale complete, he's able to relocate to another province with ease, carrying both the financial return on his investment and the confidence of a smooth transition.\"<br><span>— Satisfied Client</span>"
@@ -84,7 +84,7 @@ const config = {
         "When it came time to sell, he knew he needed expert guidance but there was only one call to make. Our relationship began over a decade ago when I helped him purchase this very condo as a first-time buyer, and we'd stayed connected through the years."
       ],
       "image": {
-        "src": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?fit=crop&w=800&q=80"
+        "src": "https://iili.io/K5DfdXa.webp"
       },
       "listItems": []
     },
