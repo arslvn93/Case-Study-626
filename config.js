@@ -26,7 +26,7 @@ const config = {
   "header": {
     "tag": "CASE STUDY",
     "title": "How We Helped a Longtime Client Sell Their Toronto Condo in 59 Days When Similar Units Sat for 4+ Months",
-    "subheadline": "Purchased in a <strong>High-Demand Area</strong> With Strong Terms—Now <a href=\"#\">Generating Top-Dollar Rent</a> in a Tight Market"
+    "subheadline": "Acquired in a competitive locale with favorable terms — now capturing peak rent in tight demand."
   },
   "mainBox": {
     "summary": {
